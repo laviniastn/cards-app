@@ -1,0 +1,34 @@
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+    padding: 10px;
+    
+  }
+  .space{
+      margin: 10px;
+  }
+  .card{
+      width: 900px;
+      height: 140px;
+      align-items: center;
+      padding: 10px;
+      margin: auto;
+      background-color: blanchedalmond;
+  }
+  .img{
+      width: 120px;
+      height: 120px;
+  }
+
+.name {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.card-body{
+    margin: 10px ;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+}
+

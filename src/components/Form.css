@@ -1,0 +1,21 @@
+.form{
+    width: 900px;
+    height: 30px;
+    align-items: center;
+    padding: 10px;
+    margin: auto;
+    background-color: #656666;
+}
+.input{
+    width: 500px;
+    height: 45px;
+    margin: 10px;
+}
+.button{
+    width: 150px;
+    height: 25px;
+    background-color: blanchedalmond;
+}
+.space{
+    margin: 10px;
+}
